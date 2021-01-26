@@ -3,10 +3,10 @@
 int main()
 {
     FILE *fptr;
-    fptr= fopen("/home/varun/Desktop/thermo/input.txt","r");
+    fptr= fopen("./input.txt","r");
     if(fptr == NULL)
    {
-      printf("Error! change the path of input file in the code");   
+      printf("Error! in opening the file");   
       exit(1);             
    }
     float pressure [76], temp[76], Vf[76];
