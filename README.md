@@ -7,4 +7,4 @@ Support to other tables will be added soon.
 
 The code has been deliberately written in C so that everyone can understand and contribute to make it better.
 
-Remember in order to run the file you need to specify the path of input.txt
+Now you don't have to change the path, just same the files in the same folder.
